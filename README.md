@@ -30,6 +30,3 @@ To run the LLM Chat App with PDF Integration locally, follow these steps:
 
 ## Contributors
 - Rey Sylaj
-
-## Acknowledgments
-Special thanks to the developers of Streamlit, Langchain, and OpenAI for their incredible tools and libraries that made this project possible.
